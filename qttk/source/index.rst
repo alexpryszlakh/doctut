@@ -6,15 +6,15 @@ by Conlan Scientific Open-Source Research Cohort
 
 Requirements
 ------------
-*python >= 3.7
-*numpy, pandas, matplotlib
-*checkout setup.md for conda environment setup
+|*python >= 3.7
+|*numpy, pandas, matplotlib
+|*checkout setup.md for conda environment setup
 
 Philosophy
 ----------
-*Transparent and open source
-*Well documented - function signatures use type hints
-*Performance tested
+|*Transparent and open source
+|*Well documented - function signatures use type hints
+|*Performance tested
 
 
 
