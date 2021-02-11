@@ -10,3 +10,6 @@ This Module Outputs a Stacked Graph Featuring:
 | * Volume
 | * %b
 | * Bandwidth
+
+Parameters: eod_data : pandas.DataFrame
+|           moving_avg_window
