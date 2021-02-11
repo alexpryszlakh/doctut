@@ -7,10 +7,10 @@ preferences.
 
 This Module outputs a stacked graph featuring:
 ----------------------------------------------
-| *Bollinger Bands with candlestick close prices
-| *Volume
-| *%b
-| *Bandwidth
+| * Bollinger Bands with candlestick close prices
+| * Volume
+| * %b
+| * Bandwidth
 
 
 Necessary imports ::
