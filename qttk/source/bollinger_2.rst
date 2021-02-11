@@ -11,4 +11,4 @@ qttk.DataFrame.compute_bb
 | * Bandwidth
 
 Parameters: eod_data : pandas.DataFrame
-|           moving_avg_window          
+|           moving_avg_window
