@@ -9,3 +9,7 @@ This Module Outputs a Stacked Graph Featuring:
 ----------------------------------------------
 | * MACD
 | * MACD Moving Average
+
+Function ::
+^^^^^^^^
+def compute_macd(eod_data: pd.DataFrame)
