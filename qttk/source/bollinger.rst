@@ -13,14 +13,14 @@ This Module outputs a stacked graph featuring:
 | *Bandwidth
 
 
-Necessary imports::
+Necessary imports ::
 ------------------
 import os
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 import pandas as pd
 
-Function::
+Function ::
 ---------
 def compute_bb(eod_data: pd.DataFrame,
                moving_avg_window: int = 21,
