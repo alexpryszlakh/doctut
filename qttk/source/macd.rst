@@ -12,5 +12,5 @@ This Module Outputs a Stacked Graph Featuring:
 
 Function
 ^^^^^^^^
-.. code-block::
+.. code-block:: python
 def compute_macd(eod_data: pd.DataFrame)
