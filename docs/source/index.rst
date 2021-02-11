@@ -15,8 +15,8 @@ Guide
 .. toctree::
    :maxdepth: 2
 
-   License
-   Help
+   license
+   help
 
 
 
