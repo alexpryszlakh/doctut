@@ -19,3 +19,7 @@ Parameters:
 | **std_window** : int, default 21
 | **volume_window** : int, Optional 50
 | **multiplier** : int, default 2
+
+Function ::
+^^^^^^^^
+def compute_macd(eod_data: pd.DataFrame)

@@ -26,6 +26,8 @@ Indicators
    license
    help
    bb
+   bollinger
+   macd
 
 
 Indices and tables
