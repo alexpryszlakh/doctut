@@ -11,5 +11,9 @@ This Module Outputs a Stacked Graph Featuring:
 | * %b
 | * Bandwidth
 
-Parameters: eod_data : pandas.DataFrame
-|           moving_avg_window
+Parameters:
+| **eod_data** : pandas.DataFrame
+| **moving_avg_window** : int, default 21
+| **std_window** : int, default 21
+| **volume_window** : int, Optional 50
+| **multiplier** : int, default 2
