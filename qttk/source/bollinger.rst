@@ -13,8 +13,9 @@ This Module outputs a stacked graph featuring:
 | * Bandwidth
 
 
-Necessary imports ::
+Necessary imports
 ------------------
+.. code-block:: python
 import os
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
@@ -24,7 +25,7 @@ Function
 ---------
 .. code-block:: python
 def compute_bb(eod_data: pd.DataFrame,
-|               moving_avg_window: int = 21,
-|               std_window: int = 21,
-|               volume_window: Optional[int] = 50,
-|               multiplier: int = 2) -> pd.DataFrame:
+               moving_avg_window: int = 21,
+               std_window: int = 21,
+               volume_window: Optional[int] = 50,
+               multiplier: int = 2) -> pd.DataFrame:
