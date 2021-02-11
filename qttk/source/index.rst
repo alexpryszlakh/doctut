@@ -16,6 +16,8 @@ Philosophy
 | *Well documented - function signatures use type hints
 | *Performance tested
 
+
+
 .. toctree::
    :maxdepth: 2
    license
