@@ -17,11 +17,10 @@ Philosophy
 | * Performance tested
 
 
-Indicators
-^^^^^^^^^^
+
+
 .. toctree::
    :maxdepth: 2
-   :caption: Indicators
 
    license
    help
