@@ -1,2 +1,2 @@
-qttk.DataFrame.compute_bb
-=========================
+qttk.DataFrame.compute_bb()
+===========================
