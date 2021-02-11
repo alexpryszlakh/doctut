@@ -12,9 +12,9 @@ Requirements
 
 Philosophy
 ----------
-|*Transparent and open source
-|*Well documented - function signatures use type hints
-|*Performance tested
+| *Transparent and open source
+| *Well documented - function signatures use type hints
+| *Performance tested
 
 
 
