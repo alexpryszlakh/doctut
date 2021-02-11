@@ -20,9 +20,10 @@ Philosophy
 
 .. toctree::
    :maxdepth: 2
+
    license
    help
-
+   bb
 
 
 Indices and tables
