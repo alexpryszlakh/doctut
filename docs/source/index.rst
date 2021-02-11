@@ -1,16 +1,20 @@
-Simple Documentation Tutorial
-=================================
+Welcome to QTTK's Documentation
+=======================================
 
-Another Simple Header
-=====================
+[qttk] Quantitative Trading ToolKit - Quant trading library developed
+by Conlan Scientific Open-Source Research Cohort
 
-Here is some text explaining some complex stuff.::
+Requirements
+------------
+| *python >= 3.7
+| *numpy, pandas, matplotlib
+| *checkout setup.md for conda environment setup
 
-    print 'hello'
-    >>hello
-
-Guide
-^^^^^
+Philosophy
+----------
+| *Transparent and open source
+| *Well documented - function signatures use type hints
+| *Performance tested
 
 .. toctree::
    :maxdepth: 2
